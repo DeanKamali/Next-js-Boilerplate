@@ -1,4 +1,4 @@
-# Boilerplate and Starter for Next.js 16+, Tailwind CSS 4, and TypeScript.
+# Boilerplate and Starter.
 
 <p align="center">
   <a href="https://demo.nextjs-boilerplate.com">
