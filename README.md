@@ -1,4 +1,4 @@
-# Boilerplate and Starter.
+# Boilerplate and Starter!
 
 <p align="center">
   <a href="https://demo.nextjs-boilerplate.com">
